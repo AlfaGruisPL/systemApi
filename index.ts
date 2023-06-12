@@ -1,0 +1,1 @@
+export {ZleceniePlatnosciDTO} from "DTO/zleceniePlatnosciDTO"
